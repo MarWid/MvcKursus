@@ -16,7 +16,7 @@ namespace Start.Controllers
         public ActionResult Index2()
         {
 
-            string navn = "kjkjk";
+            string navn = "kjkdffdfdjk";
 
             return Json(navn, JsonRequestBehavior.AllowGet);
 
